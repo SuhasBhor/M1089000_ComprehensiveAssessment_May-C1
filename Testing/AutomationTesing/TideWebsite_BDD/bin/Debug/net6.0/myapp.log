@@ -1,0 +1,85 @@
+2022-07-30 09:24:35,741 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Initialize extent report
+2022-07-30 09:24:35,757 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Feature TideWebsite
+2022-07-30 09:24:37,546 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 09:24:37,549 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Scenario Verify ContactUs Section
+2022-07-30 09:24:41,529 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - URL open in Browser
+2022-07-30 09:24:43,684 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - CLose the pop window
+2022-07-30 09:24:45,927 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on ContactUs button
+2022-07-30 09:24:46,373 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Takes Screenshot on screen
+2022-07-30 09:24:50,571 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Closed
+2022-07-30 09:24:52,250 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 09:24:52,250 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Scenario Verify Coupon And Rewards Section
+2022-07-30 09:24:55,703 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - URL gets open in browser
+2022-07-30 09:24:57,861 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Pop up window close
+2022-07-30 09:25:00,171 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on coupon and reward option
+2022-07-30 09:25:02,344 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Verify the coupon and rewards section
+2022-07-30 09:25:02,585 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Takes screenshot of the screen
+2022-07-30 09:25:06,748 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Closed
+2022-07-30 09:25:08,376 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 09:25:08,377 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Scenario Verify Home Screen Language Section
+2022-07-30 09:25:11,757 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - URL gets open in browser
+2022-07-30 09:25:13,954 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Pop up window close
+2022-07-30 09:25:16,041 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on the Select location button
+2022-07-30 09:25:17,638 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Choose the language
+2022-07-30 09:25:18,148 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Takes the screenshot of screen
+2022-07-30 09:25:18,339 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Closed
+2022-07-30 09:25:19,959 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 09:25:19,959 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Scenario Verify How to wash clothes section
+2022-07-30 09:25:22,502 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - URL gets open in browser
+2022-07-30 09:25:24,624 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Pop up window close
+2022-07-30 09:25:26,930 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on the How to wash clothes
+2022-07-30 09:25:30,988 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Scroll to the How to remove Stains
+2022-07-30 09:25:31,117 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on the How to remove Stains
+2022-07-30 09:25:31,816 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Takes the screenshot of screen
+2022-07-30 09:25:31,990 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Closed
+2022-07-30 09:25:33,708 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 09:25:33,708 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Scenario Verify Live Chat Section
+2022-07-30 09:25:36,369 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - URL open in browser
+2022-07-30 09:25:38,494 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - PopUp closed
+2022-07-30 09:25:40,735 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on the LiveChat button
+2022-07-30 09:25:44,791 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Scroll to the How to Live chat
+2022-07-30 09:25:45,032 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Takes the screenshot of screen
+2022-07-30 09:25:45,197 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Closed
+2022-07-30 09:25:46,852 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 09:25:46,852 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Scenario Verify Our Commitment Section
+2022-07-30 09:25:50,253 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - URL gets open in browser
+2022-07-30 09:25:52,392 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Popup window closed
+2022-07-30 09:25:54,731 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on Our Commitment
+2022-07-30 09:25:58,798 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Scroll to the Our Ambition
+2022-07-30 09:25:58,949 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on Our Ambition
+2022-07-30 09:25:59,767 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Takes the screenshot of screen
+2022-07-30 09:26:03,909 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Closed
+2022-07-30 09:26:05,422 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 09:26:05,422 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Scenario Verify Register section
+2022-07-30 09:26:07,262 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - URL gets open in browser
+2022-07-30 09:26:09,391 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - PopUp closed
+2022-07-30 09:26:11,627 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on the Register button
+2022-07-30 09:26:12,024 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on Sign up now button
+2022-07-30 09:26:12,280 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Takes the screenshot of screen
+2022-07-30 09:26:12,342 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Closed
+2022-07-30 09:26:14,214 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 09:26:14,214 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Scenario Verify Search Bar
+2022-07-30 09:26:18,516 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - URL gets open in browser
+2022-07-30 09:26:20,665 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Popup closed
+2022-07-30 09:26:22,755 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on the search bar
+2022-07-30 09:26:23,610 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Enter data into search bar
+2022-07-30 09:26:25,775 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Takes the screenshot of the screen
+2022-07-30 09:26:25,936 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Closed
+2022-07-30 09:26:27,679 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 09:26:27,679 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Scenario Verify Shop products Section
+2022-07-30 09:26:31,254 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - URL open in the browser
+2022-07-30 09:26:33,483 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Popup Closed
+2022-07-30 09:26:35,881 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on shop products
+2022-07-30 09:26:57,685 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Select the Product
+2022-07-30 09:27:00,771 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on the find retailer button
+2022-07-30 09:27:01,116 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Takes screenshot of the screen
+2022-07-30 09:27:01,658 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Closed
+2022-07-30 09:27:03,629 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 09:27:03,629 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Scenario Verify Whats New Section
+2022-07-30 09:27:21,873 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - URL open in the browser
+2022-07-30 09:27:24,012 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Popup closed
+2022-07-30 09:27:26,309 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on the What's new 
+2022-07-30 09:27:26,633 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Click on the Latest Articles
+2022-07-30 09:27:26,832 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Takes screenshot of the screen
+2022-07-30 09:27:30,986 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Driver gets Closed
+2022-07-30 09:27:36,103 [NonParallelWorker] INFO TideWebsite_BDD.Utility.LogFourNet - Close Extent report

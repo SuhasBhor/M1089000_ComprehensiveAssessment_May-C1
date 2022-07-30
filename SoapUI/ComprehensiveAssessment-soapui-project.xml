@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="1390a677-69c9-4950-87cb-a9085bd388e8" activeEnvironment="Default" name="ComprehensiveAssessment" soapui-version="5.7.0" abortOnError="false" runType="SEQUENTIAL" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:testSuite id="7cc8bc51-a3a9-4c55-9d3e-b20ac2aa4203" name="CurrencyTestSuite"><con:settings/><con:runType>SEQUENTIAL</con:runType><con:testCase id="58facba7-0ec3-4b4e-b067-486c1d0ea77d" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="CurrencyInfoTestCase" searchProperties="true"><con:settings/><con:testStep type="httprequest" name="Get" id="97ebd8b2-63c5-4255-929e-f3e9c3f06ef7"><con:settings/><con:config method="GET" xsi:type="con:HttpRequest" id="46887ca4-53fd-4e88-9857-8387b565557c" name="Get" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://restcountries.com/v2/currency/pen</con:endpoint><con:request/><con:assertion type="GroovyScriptAssertion" id="9a69dfbe-262a-4ed0-86e0-e7b2f4f7ed66" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper
+
+def response = messageExchange.response.responseContent
+def json1 = new JsonSlurper().parseText(response)
+
+assert ["South America"] == json1.subregion
+assert ["Lima"] == json1.capital</scriptText></con:configuration></con:assertion><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:config></con:testStep><con:testStep type="groovy" name="GetGroovyScript" id="17c28526-e338-4d5f-ba3e-0f5e6b900101"><con:settings/><con:config><script>import groovy.json.JsonSlurper
+import jxl.*
+import jxl.write.*
+
+Workbook workbook = Workbook.getWorkbook(new File("C:\\Users\\mindc1may35\\Desktop\\ComprehensiveAssessment\\SoapUI\\Currency.xls"))
+Sheet sheet = workbook.getSheet(0)
+
+def getCurrency = sheet.getCell(1,1).getContents()
+def getStep = testRunner.testCase.getTestStepByName("Get")
+getStep.setPropertyValue("Endpoint","https://restcountries.com/v2/currency/"+getCurrency)
+testRunner.runTestStepByName("Get")
+testRunner.testCase.getTestStepByName("Get").getPropertyValue("Response")</script></con:config></con:testStep><con:properties/></con:testCase><con:properties/></con:testSuite><con:properties/><con:wssContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/><con:sensitiveInformation/></con:soapui-project>

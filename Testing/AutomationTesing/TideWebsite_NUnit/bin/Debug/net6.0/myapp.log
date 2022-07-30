@@ -1,0 +1,82 @@
+2022-07-30 00:30:26,258 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Initialize Extent report
+2022-07-30 00:30:28,228 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 00:30:31,869 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - URL open in Browser
+2022-07-30 00:30:33,990 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - CLose the pop window
+2022-07-30 00:30:36,226 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on ContactUs button
+2022-07-30 00:30:36,720 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Takes Screenshot on screen
+2022-07-30 00:30:40,873 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Closed
+2022-07-30 00:30:46,292 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Extent report stop
+2022-07-30 00:30:48,006 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 00:30:51,483 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - URL gets open in browser
+2022-07-30 00:30:53,594 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Pop up window close
+2022-07-30 00:30:55,938 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on coupon and reward option
+2022-07-30 00:30:56,235 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Takes screenshot of the screen
+2022-07-30 00:31:00,405 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Closed
+2022-07-30 00:31:00,409 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Extent report stop
+2022-07-30 00:31:02,154 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 00:31:19,953 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - URL gets open in browser
+2022-07-30 00:31:22,115 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Pop up window close
+2022-07-30 00:31:24,200 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on the Select location button
+2022-07-30 00:31:26,027 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Choose the language
+2022-07-30 00:31:26,610 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Takes the screenshot of screen
+2022-07-30 00:31:26,810 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Closed
+2022-07-30 00:31:26,811 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Extent report stop
+2022-07-30 00:31:28,528 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 00:31:30,832 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - URL gets open in browser
+2022-07-30 00:31:33,053 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Pop up window close
+2022-07-30 00:31:35,362 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on the How to wash clothes
+2022-07-30 00:31:39,403 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Scroll to the How to remove Stains
+2022-07-30 00:31:39,528 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on the How to remove Stains
+2022-07-30 00:31:40,260 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Takes the screenshot of screen
+2022-07-30 00:31:44,451 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Closed
+2022-07-30 00:31:44,453 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Extent report stop
+2022-07-30 00:31:46,109 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 00:31:48,820 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - URL open in browser
+2022-07-30 00:31:50,979 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - PopUp closed
+2022-07-30 00:31:53,215 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on the LiveChat button
+2022-07-30 00:31:57,259 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Scroll to the How to Live chat
+2022-07-30 00:31:57,551 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Takes the screenshot of screen
+2022-07-30 00:32:01,718 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Closed
+2022-07-30 00:32:01,719 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Extent report stop
+2022-07-30 00:32:03,356 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 00:32:05,401 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - URL gets open in browser
+2022-07-30 00:32:07,536 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Popup window closed
+2022-07-30 00:32:09,937 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on Our Commitment
+2022-07-30 00:32:13,982 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Scroll to the Our Ambition
+2022-07-30 00:32:14,387 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on Our Ambition
+2022-07-30 00:32:14,976 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Takes the screenshot of screen
+2022-07-30 00:32:19,144 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Closed
+2022-07-30 00:32:19,147 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Extent report stop
+2022-07-30 00:32:20,755 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 00:32:24,558 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - URL gets open in browser
+2022-07-30 00:32:26,691 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - PopUp closed
+2022-07-30 00:32:28,933 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on the Register button
+2022-07-30 00:32:29,277 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on Sign up now button
+2022-07-30 00:32:29,638 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Takes the screenshot of screen
+2022-07-30 00:32:29,701 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Closed
+2022-07-30 00:32:29,703 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Extent report stop
+2022-07-30 00:32:31,636 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 00:32:37,259 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - URL gets open in browser
+2022-07-30 00:32:39,508 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Popup closed
+2022-07-30 00:32:41,614 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on the search bar
+2022-07-30 00:32:42,788 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Enter data into search bar
+2022-07-30 00:32:44,986 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Takes the screenshot of the screen
+2022-07-30 00:32:49,115 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Closed
+2022-07-30 00:32:49,117 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Extent report stop
+2022-07-30 00:32:50,926 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 00:32:55,088 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - URL open in the browser
+2022-07-30 00:32:57,316 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Popup Closed
+2022-07-30 00:32:59,625 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on shop products
+2022-07-30 00:33:15,812 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Select the Product
+2022-07-30 00:33:16,243 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on the find retailer button
+2022-07-30 00:33:16,458 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Takes screenshot of the screen
+2022-07-30 00:33:16,590 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Closed
+2022-07-30 00:33:16,592 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Extent report stop
+2022-07-30 00:33:18,444 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Initialize
+2022-07-30 00:33:37,265 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - URL open in the browser
+2022-07-30 00:33:39,420 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Popup closed
+2022-07-30 00:33:41,868 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on the What's new 
+2022-07-30 00:33:41,994 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Click on the Latest Articles
+2022-07-30 00:33:42,224 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Takes screenshot of the screen
+2022-07-30 00:33:46,354 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Driver gets Closed
+2022-07-30 00:33:46,357 [NonParallelWorker] INFO TideWebsite_NUnit.Utility.LogFourNet - Extent report stop
